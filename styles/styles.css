@@ -10,3 +10,9 @@ body {
 	justify-content: center;
 	background-color: #282c34;
 }
+
+.like {
+	width: 100px;
+	height: 100px;
+	background-image: url("../assets/heart.png");
+}
